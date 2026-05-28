@@ -33,7 +33,6 @@ Overview
 Player Performance
 Match & Toss Insights
 Venue & City Analysis
+
 Author
 Anshika Bhati
-
-Your Name
