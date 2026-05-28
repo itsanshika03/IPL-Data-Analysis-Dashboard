@@ -32,9 +32,14 @@ Key Insights
 
 Dashboard Pages
 - Overview
+![Overview](Dashboard/overview.png)
 - Player Performance
+![Player Performance](Dashboard/player-performance.png)
 - Match & Toss Insights
+![Match & Toss](Dashboard/match-toss.png)
 - Venue & City Analysis
+![Venue Analysis](Dashboard/venue-analysis.png)
 
 Author
+<br>
 Anshika Bhati
