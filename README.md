@@ -36,9 +36,9 @@ Dashboard Pages
 - Player Performance
 ![Player Performance](Dashboard/player-performance.png)
 - Match & Toss Insights
-![Match & Toss](Dashboard/match-toss.png)
+![Match & Toss](Dashboard/match-&-toss-insights.png)
 - Venue & City Analysis
-![Venue Analysis](Dashboard/venue-analysis.png)
+![Venue Analysis](Dashboard/venue-&-city-analysis.png)
 
 Author
 <br>
