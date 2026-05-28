@@ -2,8 +2,10 @@ IPL Data Analytics Dashboard
 <br>
 This project analyzes IPL match data using Power BI.
 <br>
-The dashboard provides insights related to: 
+The dashboard provides insights related to:
+<br>
 - Team performance
+- <br>
 - Player statistics
 - Toss analysis
 - Venue analysis
