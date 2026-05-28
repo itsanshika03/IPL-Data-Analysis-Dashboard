@@ -23,12 +23,14 @@ Dashboard Features
 - Player Performance Analysis
 - Toss Insights
 - Venue Analysis
+  
 Key Insights
-1. Mumbai Indians emerged as one of the most successful IPL teams.
-2. Virat Kohli dominated batting statistics.
-3. Lasith Malinga led wicket-taking charts.
-4. Teams preferred fielding first after winning the toss.
-5. Wankhede Stadium hosted a large number of IPL matches.
+- Mumbai Indians emerged as one of the most successful IPL teams.
+- Virat Kohli dominated batting statistics.
+- Lasith Malinga led wicket-taking charts.
+- Teams preferred fielding first after winning the toss.
+- Wankhede Stadium hosted a large number of IPL matches.
+  
 Dashboard Pages
 - Overview
 - Player Performance
