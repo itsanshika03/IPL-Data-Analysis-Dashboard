@@ -1,22 +1,20 @@
 IPL Data Analytics Dashboard
-<br>
+
 This project analyzes IPL match data using Power BI.
-<br>
+
 The dashboard provides insights related to:
-<br>
 - Team performance
-- <br>
 - Player statistics
 - Toss analysis
 - Venue analysis
 - Match trends
-<br>  
+
 Tools Used
 - Power BI
 - Power Query
 - DAX
 - Excel/CSV
-<br>  
+
 Dashboard Features
 - KPI Cards
 - Interactive Filters
@@ -24,14 +22,14 @@ Dashboard Features
 - Player Performance Analysis
 - Toss Insights
 - Venue Analysis
-<br>  
+
 Key Insights
 - Mumbai Indians emerged as one of the most successful IPL teams.
 - Virat Kohli dominated batting statistics.
 - Lasith Malinga led wicket-taking charts.
 - Teams preferred fielding first after winning the toss.
 - Wankhede Stadium hosted a large number of IPL matches.
- <br> 
+
 Dashboard Pages
 - Overview
 - Player Performance
